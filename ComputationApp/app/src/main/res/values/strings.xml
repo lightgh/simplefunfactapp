@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Computation App</string>
+    <string name="title_text">Computation Application</string>
+    <string name="text_desc1">Enter First Number</string>
+    <string name="text_desc2">Enter Second Number</string>
+    <string name="button_display">Compute Values</string>
+</resources>
